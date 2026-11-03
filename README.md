@@ -21,7 +21,7 @@ Jetson Orin Nano Super 8GB에 USB 웹캠을 붙여 실시간 물체 추출·검�
 | 10단계 (카메라 2대 근접 감지: 렌즈·위치 보정, 거리 측정) | 성찬, 김민서 (AIGJ_01_002) |
 | 공통 기반 1~6단계 (환경, 임베딩 로더) | 민서 (iamminseo) |
 
-10단계는 1호기·2호기 카메라를 한 대씩 써서 김민서와 함께 측정했다. 측정 코드·결과·로그는 김민서 저장소 [AIP-1-3/jetson_orin_LLM_agent_AIGJ_01_002](https://github.com/AIP-1-3/jetson_orin_LLM_agent_AIGJ_01_002) 에서 출처를 밝혀 [reports/step10/](reports/step10/README.md) 로 가져왔다. `lab/prox/` 는 이쪽에서 준비한 1호기용 코드다.
+10단계는 1호기·2호기 카메라를 한 대씩 써서 김민서와 함께 진행했다. 코드·결과·로그는 [reports/step10/](reports/step10/README.md) 에 있다.
 
 ## 환경
 

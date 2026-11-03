@@ -1,11 +1,9 @@
 # 10단계: 두 카메라 접근 감지 (김민서·강성찬 공동 작업)
 
 10단계는 김민서(AIGJ_01_002)와 강성찬(AIGJ_01_001)이 2026-10-27~28 에 1호기·2호기 카메라를 함께 써서 진행했다.
-측정은 2호기에서 김민서 저장소의 코드로 했고, 아래 결과·코드·로그는 그 저장소에서 그대로 가져왔다.
 
-- 원본: [AIP-1-3/jetson_orin_LLM_agent_AIGJ_01_002](https://github.com/AIP-1-3/jetson_orin_LLM_agent_AIGJ_01_002) (커밋 `73fb2d6`), `docs/02-results.md` 10단계 절, `docs/03-engineering-notes.md` 24~32번, `prox/`, `results/10_*`
-- 이 폴더: `prox/` 측정에 쓴 코드, `results/` 측정값(jsonl)과 tegrastats 로그
-- `lab/prox/` 는 강성찬 쪽에서 준비한 1호기용 코드(보드 2대 구성, 화면 체커보드)이고, 실제 측정에는 쓰지 않았다.
+- `prox/`: 측정에 쓴 코드, `results/`: 측정값(jsonl)과 tegrastats 로그
+- `lab/prox/`: 1호기 쪽 준비용 코드(보드 2대 구성, 화면 체커보드)
 
 ## 결과: 10단계 두 카메라 접근 감지 (2026-10-27, 10-28, ankle1 만 측정)
 
